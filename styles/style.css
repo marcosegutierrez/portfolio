@@ -1,3 +1,10 @@
+body {
+    background-image: url("/img/bg-image.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
 .nav-links>a {
     display: inline-block;
     padding: 13px 10px 13px 10px;
@@ -16,6 +23,7 @@
 .icon{
     height: 6em;
     width: 6em;
+    margin: 1em;
 }
 
 a{
