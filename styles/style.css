@@ -27,6 +27,13 @@ body {
 }
 
 a{
-    color: white;
+    color: rgb(29, 28, 52);
     text-decoration:none;
+    font-weight: bold;
+}
+
+.img-proyect {
+    height: 8em;
+    width: 15em;
+    margin: 1em;
 }
